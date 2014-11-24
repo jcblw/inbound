@@ -19,8 +19,5 @@
   "devDependencies": {
     "should": "*",
     "mocha": "*"
-  },
-  "publishConfig": {
-    "registry": "https://registry.segment.io"
   }
 }
